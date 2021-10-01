@@ -114,7 +114,7 @@ void saveCapturedImage() {
   WiFiClientSecure client;
   
   if (client.connect(myDomain, 443)) {
-    Serial.println("Connection successful");  //Google app scriptへの接続試行
+    Serial.println("Connection successful");  //Google apps scriptへの接続試行
     
     camera_fb_t * fb = NULL;
     fb = esp_camera_fb_get();  
