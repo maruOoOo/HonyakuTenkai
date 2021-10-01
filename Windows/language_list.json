@@ -1,0 +1,422 @@
+{
+    "1":{
+        "name":"Arabic (Egypt)",
+        "code":"ar",
+        "voices":["ar-EG-SalmaNeural","ar-EG-ShakirNeural"],
+        "gender":["Female","Male"]
+    },
+    "2":{
+        "name":"Arabic (Saudi Arabia)",
+        "code":"ar",
+        "voices":["ar-SA-ZariyahNeural","ar-SA-HamedNeural"],
+        "gender":["Female","Male"]
+    },
+    "3":{
+        "name":"Bulgarian (Bulgaria)",
+        "code":"bg",
+        "voices":["bg-BG-KalinaNeural","bg-BG-BorislavNeural"],
+        "gender":["Female","Male"]
+    },
+    "4":{
+        "name":"Catalan (Spain)",
+        "code":"ca",
+        "voices":["ca-ES-AlbaNeural","ca-ES-JoanaNeural","ca-ES-EnricNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "5":{
+        "name":"Chinese (Cantonese, Traditional)",
+        "code":"zh-TW",
+        "voices":["zh-HK-HiuGaaiNeural","zh-HK-HiuMaanNeural","zh-HK-WanLungNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "6":{
+        "name":"Chinese (Mandarin, Simplified)",
+        "code":"zh-CN",
+        "voices":["zh-CN-XiaoxiaoNeural","zh-CN-XiaoyouNeural","zh-CN-XiaomoNeural","zh-CN-XiaoxuanNeural","zh-CN-XiaohanNeural","zh-CN-XiaoruiNeural","zh-CN-YunyangNeural","zh-CN-YunyeNeural","zh-CN-YunxiNeural"],
+        "gender":["Female","Female","Female","Female","Female","Female","Male","Male","Male"]
+    },
+    "7":{
+        "name":"Chinese (Taiwanese Mandarin)",
+        "code":"zh-TW",
+        "voices":["zh-TW-HsiaoChenNeural","zh-TW-HsiaoYuNeural","zh-TW-YunJheNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "8":{
+        "name":"Croatian (Croatia)",
+        "code":"hr",
+        "voices":["hr-HR-GabrijelaNeural","hr-HR-SreckoNeural"],
+        "gender":["Female","Male"]
+    },
+    "9":{
+        "name":"Czech (Czech)",
+        "code":"cs",
+        "voices":["cs-CZ-VlastaNeural","cs-CZ-AntoninNeural"],
+        "gender":["Female","Male"]
+    },
+    "10":{
+        "name":"Danish (Denmark)",
+        "code":"da",
+        "voices":["da-DK-ChristelNeural","da-DK-JeppeNeural"],
+        "gender":["Female","Male"]
+    },
+    "11":{
+        "name":"Dutch (Belgium)",
+        "code":"nl",
+        "voices":["nl-BE-DenaNeural","nl-BE-ArnaudNeural"],
+        "gender":["Female","Male"]
+    },
+    "12":{
+        "name":"Dutch (Netherlands)",
+        "code":"nl",
+        "voices":["nl-NL-ColetteNeural","nl-NL-FennaNeural","nl-NL-MaartenNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "13":{
+        "name":"English (Australia)",
+        "code":"en",
+        "voices":["en-AU-NatashaNeural","en-AU-WilliamNeural"],
+        "gender":["Female","Male"]
+    },
+    "14":{
+        "name":"English (Canada)",
+        "code":"en",
+        "voices":["en-CA-ClaraNeural","en-CA-LiamNeural"],
+        "gender":["Female","Male"]
+    },
+    "15":{
+        "name":"English (Hongkong)",
+        "code":"en",
+        "voices":["en-HK-YanNeural","en-HK-SamNeural"],
+        "gender":["Female","Male"]
+    },
+    "16":{
+        "name":"English (India)",
+        "code":"en",
+        "voices":["en-IN-NeerjaNeural","en-IN-PrabhatNeural"],
+        "gender":["Female","Male"]
+    },
+    "17":{
+        "name":"English (Ireland)",
+        "code":"en",
+        "voices":["en-IE-EmilyNeural","en-IE-ConnorNeural"],
+        "gender":["Female","Male"]
+    },
+    "18":{
+        "name":"English (New Zealand)",
+        "code":"en",
+        "voices":["en-NZ-MollyNeural","en-NZ-MitchellNeural"],
+        "gender":["Female","Male"]
+    },
+    "19":{
+        "name":"English (Philippines)",
+        "code":"en",
+        "voices":["en-PH-RosaNeural","en-PH-JamesNeural"],
+        "gender":["Female","Male"]
+    },
+    "20":{
+        "name":"English (Singapore)",
+        "code":"en",
+        "voices":["en-SG-LunaNeural","en-SG-WayneNeural"],
+        "gender":["Female","Male"]
+    },
+    "21":{
+        "name":"English (South Africa)",
+        "code":"en",
+        "voices":["en-ZA-LeahNeural","en-ZA-LukeNeural"],
+        "gender":["Female","Male"]
+    },
+    "22":{
+        "name":"English (United Kingdom)",
+        "code":"en",
+        "voices":["en-GB-LibbyNeural","en-GB-MiaNeural","en-GB-RyanNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "23":{
+        "name":"English (United States)",
+        "code":"en",
+        "voices":["en-US-AriaNeural","en-US-JennyNeural","en-US-GuyNeural","en-US-AmberNeural","en-US-AshleyNeural","en-US-CoraNeural","en-US-ElizabethNeural","en-US-MichelleNeural","en-US-MonicaNeural","en-US-AnaNeural","en-US-BrandonNeural","en-US-ChristopherNeural","en-US-JacobNeural","en-US-EricNeural"],
+        "gender":["Female","Female","Male","Female","Female","Female","Female","Female","Female","Kid","Male","Male","Male","Male"]
+    },
+    "24":{
+        "name":"Estonian (Estonia)",
+        "code":"et",
+        "voices":["et-EE-AnuNeural","et-EE-KertNeural"],
+        "gender":["Female","Male"]
+    },
+    "25":{
+        "name":"Finnish (Finland)",
+        "code":"fi",
+        "voices":["fi-FI-NooraNeural","fi-FI-SelmaNeural","fi-FI-HarriNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "26":{
+        "name":"French (Belgium)",
+        "code":"fr",
+        "voices":["fr-BE-CharlineNeural","fr-BE-GerardNeural"],
+        "gender":["Female","Male"]
+    },
+    "27":{
+        "name":"French (Canada)",
+        "code":"fr",
+        "voices":["fr-CA-SylvieNeural","fr-CA-AntoineNeural","fr-CA-JeanNeural"],
+        "gender":["Female","Male","Male"]
+    },
+    "28":{
+        "name":"French (France)",
+        "code":"fr",
+        "voices":["fr-FR-DeniseNeural","fr-FR-HenriNeural"],
+        "gender":["Female","Male"]
+    },
+    "29":{
+        "name":"French (Switzerland)",
+        "code":"fr",
+        "voices":["fr-CH-ArianeNeural","fr-CH-FabriceNeural"],
+        "gender":["Female","Male"]
+    },
+    "30":{
+        "name":"German (Austria)",
+        "code":"de",
+        "voices":["de-AT-IngridNeural","de-AT-JonasNeural"],
+        "gender":["Female","Male"]
+    },
+    "31":{
+        "name":"German (Germany)",
+        "code":"de",
+        "voices":["de-DE-KatjaNeural","de-DE-ConradNeural"],
+        "gender":["Female","Male"]
+    },
+    "32":{
+        "name":"German (Switzerland)",
+        "code":"de",
+        "voices":["de-CH-LeniNeural","de-CH-JanNeural"],
+        "gender":["Female","Male"]
+    },
+    "33":{
+        "name":"Greek (Greece)",
+        "code":"el",
+        "voices":["el-GR-AthinaNeural","el-GR-NestorasNeural"],
+        "gender":["Female","Male"]
+    },
+    "34":{
+        "name":"Gujarati (India)",
+        "code":"gu",
+        "voices":["gu-IN-DhwaniNeural","gu-IN-NiranjanNeural"],
+        "gender":["Female","Male"]
+    },
+    "35":{
+        "name":"Hebrew (Israel)",
+        "code":"he",
+        "voices":["he-IL-HilaNeural","he-IL-AvriNeural"],
+        "gender":["Female","Male"]
+    },
+    "36":{
+        "name":"Hindi (India)",
+        "code":"hi",
+        "voices":["hi-IN-SwaraNeural","hi-IN-MadhurNeural"],
+        "gender":["Female","Male"]
+    },
+    "37":{
+        "name":"Hungarian (Hungary)",
+        "code":"hu",
+        "voices":["hu-HU-NoemiNeural","hu-HU-TamasNeural"],
+        "gender":["Female","Male"]
+    },
+    "38":{
+        "name":"Indonesian (Indonesia)",
+        "code":"id",
+        "voices":["id-ID-GadisNeural","id-ID-ArdiNeural"],
+        "gender":["Female","Male"]
+    },
+    "39":{
+        "name":"Irish (Ireland)",
+        "code":"ga",
+        "voices":["ga-IE-OrlaNeural","ga-IE-ColmNeural"],
+        "gender":["Female","Male"]
+    },
+    "40":{
+        "name":"Italian (Italy)",
+        "code":"it",
+        "voices":["it-IT-ElsaNeural","it-IT-IsabellaNeural","it-IT-DiegoNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "41":{
+        "name":"Japanese (Japan)",
+        "code":"ja",
+        "voices":["ja-JP-NanamiNeural","ja-JP-KeitaNeural"],
+        "gender":["Female","Male"]
+    },
+    "42":{
+        "name":"Korean (Korea)",
+        "code":"ko",
+        "voices":["ko-KR-SunHiNeural","ko-KR-InJoonNeural"],
+        "gender":["Female","Male"]
+    },
+    "43":{
+        "name":"Latvian (Latvia)",
+        "code":"lv",
+        "voices":["lv-LV-EveritaNeural","lv-LV-NilsNeural"],
+        "gender":["Female","Male"]
+    },
+    "44":{
+        "name":"Lithuanian (Lithuania)",
+        "code":"lt",
+        "voices":["lt-LT-OnaNeural","lt-LT-LeonasNeural"],
+        "gender":["Female","Male"]
+    },
+    "45":{
+        "name":"Malay (Malaysia)",
+        "code":"ms",
+        "voices":["ms-MY-YasminNeural","ms-MY-OsmanNeural"],
+        "gender":["Female","Male"]
+    },
+    "46":{
+        "name":"Maltese (Malta)",
+        "code":"mt",
+        "voices":["mt-MT-GraceNeural","mt-MT-JosephNeural"],
+        "gender":["Female","Male"]
+    },
+    "47":{
+        "name":"Marathi (India)",
+        "code":"mr",
+        "voices":["mr-IN-AarohiNeural","mr-IN-ManoharNeural"],
+        "gender":["Female","Male"]
+    },
+    "48":{
+        "name":"Norwegian (Bokmål, Norway)",
+        "code":"no",
+        "voices":["nb-NO-IselinNeural","nb-NO-PernilleNeural","nb-NO-FinnNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "49":{
+        "name":"Polish (Poland)",
+        "code":"pl",
+        "voices":["pl-PL-AgnieszkaNeural","pl-PL-ZofiaNeural","pl-PL-MarekNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "50":{
+        "name":"Portuguese (Brazil)",
+        "code":"pt",
+        "voices":["pt-BR-FranciscaNeural","pt-BR-AntonioNeural"],
+        "gender":["Female","Male"]
+    },
+    "51":{
+        "name":"Portuguese (Portugal)",
+        "code":"pt",
+        "voices":["pt-PT-FernandaNeural","pt-PT-RaquelNeural","pt-PT-DuarteNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "52":{
+        "name":"Romanian (Romania)",
+        "code":"ro",
+        "voices":["ro-RO-AlinaNeural","ro-RO-EmilNeural"],
+        "gender":["Female","Male"]
+    },
+    "53":{
+        "name":"Russian (Russia)",
+        "code":"ru",
+        "voices":["ru-RU-DariyaNeural","ru-RU-SvetlanaNeural","ru-RU-DmitryNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "54":{
+        "name":"Slovak (Slovakia)",
+        "code":"sk",
+        "voices":["sk-SK-ViktoriaNeural","sk-SK-LukasNeural"],
+        "gender":["Female","Male"]
+    },
+    "55":{
+        "name":"Slovenian (Slovenia)",
+        "code":"sl",
+        "voices":["sl-SI-PetraNeural","sl-SI-RokNeural"],
+        "gender":["Female","Male"]
+    },
+    "56":{
+        "name":"Spanish (Argentina)",
+        "code":"es",
+        "voices":["es-AR-ElenaNeural","es-AR-TomasNeural"],
+        "gender":["Female","Male"]
+    },
+    "57":{
+        "name":"Spanish (Colombia)",
+        "code":"es",
+        "voices":["es-CO-SalomeNeural","es-CO-GonzaloNeural"],
+        "gender":["Female","Male"]
+    },
+    "58":{
+        "name":"Spanish (Mexico)",
+        "code":"es",
+        "voices":["es-MX-DaliaNeural","es-MX-JorgeNeural"],
+        "gender":["Female","Male"]
+    },
+    "59":{
+        "name":"Spanish (Spain)",
+        "code":"es",
+        "voices":["es-ES-ElviraNeural","es-ES-AlvaroNeural"],
+        "gender":["Female","Male"]
+    },
+    "60":{
+        "name":"Spanish (US)",
+        "code":"es",
+        "voices":["es-US-PalomaNeural","es-US-AlonsoNeural"],
+        "gender":["Female","Male"]
+    },
+    "61":{
+        "name":"Swahili (Kenya)",
+        "code":"sw",
+        "voices":["sw-KE-ZuriNeural","sw-KE-RafikiNeural"],
+        "gender":["Female","Male"]
+    },
+    "62":{
+        "name":"Swedish (Sweden)",
+        "code":"sv",
+        "voices":["sv-SE-HilleviNeural","sv-SE-SofieNeural","sv-SE-MattiasNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "63":{
+        "name":"Tamil (India)",
+        "code":"ta",
+        "voices":["ta-IN-PallaviNeural","ta-IN-ValluvarNeural"],
+        "gender":["Female","Male"]
+    },
+    "64":{
+        "name":"Telugu (India)",
+        "code":"te",
+        "voices":["te-IN-ShrutiNeural","te-IN-MohanNeural"],
+        "gender":["Female","Male"]
+    },
+    "65":{
+        "name":"Thai (Thailand)",
+        "code":"th",
+        "voices":["th-TH-AcharaNeural","th-TH-PremwadeeNeural","th-TH-NiwatNeural"],
+        "gender":["Female","Female","Male"]
+    },
+    "66":{
+        "name":"Turkish (Turkey)",
+        "code":"tr",
+        "voices":["tr-TR-EmelNeural","tr-TR-AhmetNeural"],
+        "gender":["Female","Male"]
+    },
+    "67":{
+        "name":"Ukrainian (Ukraine)",
+        "code":"uk",
+        "voices":["uk-UA-PolinaNeural","uk-UA-OstapNeural"],
+        "gender":["Female","Male"]
+    },
+    "68":{
+        "name":"Urdu (Pakistan)",
+        "code":"ur",
+        "voices":["ur-PK-UzmaNeural","ur-PK-AsadNeural"],
+        "gender":["Female","Male"]
+    },
+    "69":{
+        "name":"Vietnamese (Vietnam)",
+        "code":"vi",
+        "voices":["vi-VN-HoaiMyNeural","vi-VN-NamMinhNeural"],
+        "gender":["Female","Male"]
+    },
+    "70":{
+        "name":"Welsh (United Kingdom)",
+        "code":"cy",
+        "voices":["cy-GB-NiaNeural","cy-GB-AledNeural"],
+        "gender":["Female","Male"]
+    }
+}
