@@ -1,4 +1,4 @@
-//esp32cam-gdrive.inoの動作に必要なプログラム
+//ESP32-CAM-GoogleDrive.inoの動作に必要なプログラム
 //Githubよりコピー、ライセンス確認済み
 
 /*
